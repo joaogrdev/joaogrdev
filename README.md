@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou o João Gabriel Ribeiro</h1>
 
 
-### <div align="left">Desenvolvedor Front-end, formado em Biologia e cursando Análise e Desenvolvimento de Sistemas. Estou sempre em busca de aprender coisas novo e sou apaixonado por criar e codar! 🤓</div>  
+### <div align="left">Desenvolvedor Front-end, formado em Biologia e cursando Análise e Desenvolvimento de Sistemas. Estou sempre em busca de aprender coisas novas e sou apaixonado por criar e codar! 🤓</div>  
   
 
 <br/>  
