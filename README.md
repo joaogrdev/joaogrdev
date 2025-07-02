@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📍 Tenho 30 anos e moro em Minas Gerais.<br>💻 Sou desenvolvedor há quase 3 anos, com foco em Web Frontend. <br>⚛️ Trabalho principalmente com JS, TypeScript e PHP.  <br>📚 Tenho duas graduações: uma em Biologia e outra em Análise e Desenvolvimento de Sistemas.<br>🎯 Quero me tornar referência como desenvolvedor pela qualidade e inovação.</p>
+<p align="left">📍 Tenho 30 anos e moro em Minas Gerais.<br>💻 Sou desenvolvedor há quase 3 anos, atuando como Full Stack e/ou Frontend. <br>⚛️ Trabalho principalmente com React, TypeScript e PHP.  <br>📚 Tenho duas graduações: uma em Biologia e outra em Análise e Desenvolvimento de Sistemas.<br>🎯 Quero me tornar referência como desenvolvedor pela qualidade e inovação.</p>
 
 ###
 
