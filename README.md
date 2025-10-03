@@ -3,10 +3,10 @@
 ###
 
 <p align="left">
-  👋 Olá! Sou João Gabriel, desenvolvedor Full Stack e Front-End com 3 anos de experiência na criação de aplicações web modernas, rápidas e escaláveis.<br>
+  👋 Olá! Sou João Gabriel, desenvolvedor Front-End com 3 anos de experiência na criação de aplicações web modernas, rápidas e escaláveis.<br>
   💻 Atuo com foco em ReactJS, TypeScript e PHP, com forte atuação em integrações com APIs REST (Sankhya, Asaas, Zapsign), desenvolvimento acessível (a11y), mobile-friendly e performance.<br>
   🎓 Sou graduado em Biologia e Análise e Desenvolvimento de Sistemas.<br>
-  🚀 Já entreguei mais de 20 projetos para e-commerces, fintechs e sistemas personalizados, sempre priorizando código limpo, arquitetura modular e valor real para o negócio.<br>
+  🚀 Já atuei em mais de 20 projetos para e-commerces, fintechs e sistemas personalizados, sempre priorizando código limpo, arquitetura modular e valor real para o negócio.<br>
   🎯 Busco crescer continuamente e me tornar referência pela qualidade, inovação e excelência na experiência do usuário.
 </p>
 
