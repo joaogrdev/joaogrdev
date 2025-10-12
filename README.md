@@ -1,7 +1,7 @@
 ## 👋 Olá, sou o João
 
 Há **3 anos transformando ideias em soluções web de impacto.**  
-Sou **Desenvolvedor Front-End** focado em criar experiências digitais rápidas, acessíveis e com propósito — sempre com um olhar para **performance, arquitetura modular e UX**.
+Sou **Desenvolvedor Front-End** focado em criar experiências digitais rápidas, acessíveis e com propósito - sempre com um olhar para **performance, arquitetura modular e UX**.
 
 ---
 
@@ -31,16 +31,16 @@ Atuo desde a concepção do design até a entrega em produção, sempre buscando
 ---
 
 ### Projetos em destaque
-**[Portfólio](https://joaogrdev.github.io/portfolio/)** — Meu portfólio pessoal, construído com React e TailwindCSS, mostrando meus projetos e habilidades de forma responsiva  
-**[Dotflix](https://dotflix-xi.vercel.app/)** — Loja virtual de filmes construída em 24h, com React, Zustand e TMDB API  
-**[Los Pollos Fritos](https://los-pollos-fritos.vercel.app/)** — E-commerce completo com autenticação, carrinho e gestão de pedidos em tempo real  
-**[CineRadar](https://joaogrdev.github.io/cineradar/)** — Catálogo de filmes com recomendações personalizadas
+**[Portfólio](https://joaogrdev.github.io/portfolio/)** - Meu portfólio pessoal, construído com React e TailwindCSS, mostrando meus projetos e habilidades de forma responsiva  
+**[Dotflix](https://dotflix-xi.vercel.app/)** - Loja virtual de filmes construída em 24h, com React, Zustand e TMDB API  
+**[Los Pollos Fritos](https://los-pollos-fritos.vercel.app/)** - E-commerce completo com autenticação, carrinho e gestão de pedidos em tempo real  
+**[CineRadar](https://joaogrdev.github.io/cineradar/)** - Catálogo de filmes com recomendações personalizadas
 
 ---
 
 ### O que me motiva
 Acredito que **bom código é aquele que melhora a vida das pessoas.**  
-Busco aprender e evoluir continuamente — seja otimizando um componente, estudando novas arquiteturas ou ajudando outros devs a crescerem junto.
+Busco aprender e evoluir continuamente - seja otimizando um componente, estudando novas arquiteturas ou ajudando outros devs a crescerem junto.
 
 ---
 
